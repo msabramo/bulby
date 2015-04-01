@@ -44,7 +44,7 @@ setup(
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.4',
     ],
-    keywords='etl extract transform load',
+    keywords='automation Philips Hue lighting',
     packages=find_packages(exclude=['docs', 'tests*']),
     install_requires=reqs,
     setup_requires=['setuptools-git'],
